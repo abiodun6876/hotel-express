@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Hotel Express",
+    "slug": "hotel-express",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "icon": "./icon.png",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a24772d-66e4-45f3-b013-783f711ac15a"
+      }
+    },
+    "owner": "abiodunmoses"
+  },
+  "name": "my-expo-project"
+}
